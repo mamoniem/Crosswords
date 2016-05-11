@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Crosswords.CSharp", "Crosswords.CSharp.csproj", "{774C5E7F-331C-81A3-BE4A-5B79B4EAE2E3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Crosswords.CSharp.Editor", "Crosswords.CSharp.Editor.csproj", "{7536C0BA-CC39-8460-1965-788EE8A036BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{774C5E7F-331C-81A3-BE4A-5B79B4EAE2E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{774C5E7F-331C-81A3-BE4A-5B79B4EAE2E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{774C5E7F-331C-81A3-BE4A-5B79B4EAE2E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{774C5E7F-331C-81A3-BE4A-5B79B4EAE2E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7536C0BA-CC39-8460-1965-788EE8A036BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7536C0BA-CC39-8460-1965-788EE8A036BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7536C0BA-CC39-8460-1965-788EE8A036BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7536C0BA-CC39-8460-1965-788EE8A036BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
